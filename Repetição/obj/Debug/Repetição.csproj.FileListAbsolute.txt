@@ -1,0 +1,18 @@
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\bin\Debug\Repetição.exe.config
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\bin\Debug\Repetição.exe
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\bin\Debug\Repetição.pdb
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\obj\Debug\Repetição.csprojResolveAssemblyReference.cache
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\obj\Debug\Repetição.Form1.resources
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\obj\Debug\Repetição.Properties.Resources.resources
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\obj\Debug\Repetição.csproj.GenerateResource.Cache
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\obj\Debug\Repetição.exe
+E:\ETEC\Segundo Semestre\DS I - Val\Aula 11\Repetição\Repetição\obj\Debug\Repetição.pdb
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\bin\Debug\Repetição.exe.config
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\obj\Debug\Repetição.exe
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\obj\Debug\Repetição.pdb
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\bin\Debug\Repetição.exe
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\bin\Debug\Repetição.pdb
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\obj\Debug\Repetição.csprojResolveAssemblyReference.cache
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\obj\Debug\Repetição.Form1.resources
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\obj\Debug\Repetição.Properties.Resources.resources
+E:\ETEC\ETEC 2-MODULO\VAL-A.S\Repetição\Repetição\obj\Debug\Repetição.csproj.GenerateResource.Cache
